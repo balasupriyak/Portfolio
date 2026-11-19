@@ -38,7 +38,7 @@ export type School = {
 export const profile = {
   name: "Karibandi Bala Supriya",
   shortName: "Supriya",
-  role: "Software / Full Stack Developer",
+  role: "Software Engineer / Full Stack Developer ",
   positioning:
     "I build Node.js backends and Angular and React interfaces, currently for real-time engineering dashboards at Instrutel.",
   terminal: { command: "whoami", output: "cse undergrad, node.js intern at instrutel, open to entry-level roles" },
