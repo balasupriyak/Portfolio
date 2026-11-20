@@ -103,10 +103,6 @@ export function Hero() {
 
         <dl className="mt-6 space-y-3 border-t border-line pt-6 text-[0.9375rem]">
           <div className="flex justify-between gap-4">
-            <dt className="text-muted">Currently</dt>
-            <dd className="text-right">{profile.current}</dd>
-          </div>
-          <div className="flex justify-between gap-4">
             <dt className="text-muted">Studying</dt>
             <dd className="text-right">{profile.studying}</dd>
           </div>

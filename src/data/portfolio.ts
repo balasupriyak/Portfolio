@@ -43,7 +43,6 @@ export const profile = {
     "I build Node.js backends and Angular and React interfaces, currently for real-time engineering dashboards at Instrutel.",
   terminal: { command: "whoami", output: "cse undergrad, node.js intern at instrutel, open to entry-level roles" },
   location: "Hyderabad, India",
-  current: "Node.js intern at Instrutel",
   studying: "B.E. CSE, MVSR (2027)",
   status: "Open to entry-level roles",
   email: "balasupriyak@gmail.com",
@@ -66,7 +65,7 @@ export const experience: Role[] = [
     title: "Node.js Technology Intern",
     company: "Instrutel Pvt. Ltd.",
     location: "Hyderabad",
-    start: "May 2026",
+    start: "May 202 6",
     end: "june 2026",
     points: [
       "Developed backend applications in Node.js focused on API development and real-time data processing.",
