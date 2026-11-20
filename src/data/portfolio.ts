@@ -186,5 +186,5 @@ export const nav = [
 export const milestones = [
   { when: "2023", what: "Started B.E. CSE at MVSR" },
   { when: "2025", what: "Built VOYAGE and the quiz app" },
-  { when: "Jun 2026", what: "Joined Instrutel as Node.js intern" },
+  { when: "May 2026", what: "Worked in Instrutel as Node.js intern" },
 ];
