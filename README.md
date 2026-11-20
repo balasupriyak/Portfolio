@@ -25,7 +25,7 @@ Everything shown on the site comes from `src/data/portfolio.ts`:
 | Certifications and highlights | `certifications`, `achievements` |
 | Schools, years, CGPA | `education` |
 | Timeline in the hero profile card | `milestones` |
-| "Currently", "Studying", "Status" rows in the hero card | `profile.current`, `profile.studying`, `profile.status` |
+| "Studying", "Status" rows in the hero card | `profile.studying`, `profile.status` |
 
 Any link or score left as `null` shows a dashed "add link" placeholder on the page, so gaps are easy to spot.
 
